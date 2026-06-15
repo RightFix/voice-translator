@@ -19,3 +19,5 @@ android.archs = arm64-v8a, armeabi-v7a
 
 android.meta_data = com.google.android.gms.version=@integer/google_play_services_version
 android.enable_android_gradle_plugin = True
+android.icon.filename = image.png
+android.presplash.color = #FFFFFF
