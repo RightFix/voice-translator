@@ -1,7 +1,7 @@
 [app]
-title = Voice Translator
-package.name = voicetranslator
-package.domain = org.yourname
+title = Talk
+package.name = talk
+package.domain = org.rightfix.talk
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json
