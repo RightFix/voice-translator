@@ -12,7 +12,7 @@ requirements = python3,kivy,deep-translator,gtts,pyjnius,plyer,certifi
 orientation = portrait
 fullscreen = 0
 
-android.permissions = RECORD_AUDIO,INTERNET
+android.permissions = RECORD_AUDIO,INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
 android.api = 31
 android.minapi = 23
 android.archs = arm64-v8a, armeabi-v7a
