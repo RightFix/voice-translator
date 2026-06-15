@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Translator</string>
+    <string name="speak">Speak</string>
+    <string name="listening">Listening...</string>
+    <string name="processing">Processing...</string>
+    <string name="translating">Translating...</string>
+    <string name="speaking">Speaking...</string>
+    <string name="done">Done. Tap to speak again.</string>
+    <string name="select_language">Select a language</string>
+    <string name="translating_to">Translating to: %1$s (device language)</string>
+    <string name="you_said">You said:</string>
+    <string name="translation">Translation:</string>
+    <string name="play">Play</string>
+    <string name="permission_required">Microphone permission required</string>
+    <string name="same_language">Source and target languages are the same</string>
+    <string name="no_speech">No speech detected. Try again.</string>
+    <string name="error">Error: %1$s</string>
+</resources>

@@ -1,6 +1,0 @@
-kivy
-deep-translator
-gtts
-pyjnius
-plyer
-certifi
