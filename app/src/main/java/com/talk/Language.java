@@ -1,4 +1,4 @@
-package com.voicetranslator;
+package com.talk;
 
 public class Language {
     private final String name;

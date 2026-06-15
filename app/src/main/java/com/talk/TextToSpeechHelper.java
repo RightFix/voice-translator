@@ -1,4 +1,4 @@
-package com.voicetranslator;
+package com.talk;
 
 import android.content.Context;
 import android.speech.tts.TextToSpeech;

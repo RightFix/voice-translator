@@ -1,4 +1,4 @@
-package com.voicetranslator;
+package com.talk;
 
 import android.Manifest;
 import android.content.Intent;
@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle("Talk");
         
         initViews();
         initSpeechRecognizer();

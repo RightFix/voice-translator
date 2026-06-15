@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.voicetranslator'
+    namespace 'com.talk'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.voicetranslator"
+        applicationId "com.talk"
         minSdk 24
         targetSdk 34
         versionCode 1

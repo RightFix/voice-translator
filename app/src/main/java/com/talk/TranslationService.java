@@ -1,4 +1,4 @@
-package com.voicetranslator;
+package com.talk;
 
 import android.os.AsyncTask;
 import android.util.Log;

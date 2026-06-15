@@ -1,4 +1,4 @@
-package com.voicetranslator;
+package com.talk;
 
 import java.util.Arrays;
 import java.util.List;
