@@ -1,0 +1,21 @@
+[app]
+title = Voice Translator
+package.name = voicetranslator
+package.domain = org.yourname
+
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas,json
+
+version = 1.0
+requirements = python3,kivy,deep-translator,gtts,pyjnius,plyer,certifi
+
+orientation = portrait
+fullscreen = 0
+
+android.permissions = RECORD_AUDIO,INTERNET
+android.api = 31
+android.minapi = 23
+android.archs = arm64-v8a, armeabi-v7a
+
+android.meta_data = com.google.android.gms.version=@integer/google_play_services_version
+android.enable_android_gradle_plugin = True
